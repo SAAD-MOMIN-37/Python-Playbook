@@ -1,0 +1,30 @@
+[
+    {
+        "roll_no": 101,
+        "name": "Saad",
+        "age": 21,
+        "course": "AI",
+        "marks": 95
+    },
+    {
+        "roll_no": 102,
+        "name": "Ali",
+        "age": 20,
+        "course": "ML",
+        "marks": 88
+    },
+    {
+        "roll_no": 103,
+        "name": "Ahmed",
+        "age": 22,
+        "course": "Data Science",
+        "marks": 91
+    },
+    {
+        "roll_no": 104,
+        "name": "Shaaf",
+        "age": 23,
+        "course": "CO",
+        "marks": 90
+    }
+]
