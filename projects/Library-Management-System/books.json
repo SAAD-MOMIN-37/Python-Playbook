@@ -1,0 +1,23 @@
+[
+    {
+        "book_id": 101,
+        "title": "Python Programming",
+        "author": "Guido van Rossum",
+        "category": "Programming",
+        "copies": 5
+    },
+    {
+        "book_id": 102,
+        "title": "Machine Learning",
+        "author": "Tom Mitchell",
+        "category": "AI",
+        "copies": 3
+    },
+    {
+        "book_id": 103,
+        "title": "Deep Learning",
+        "author": "Ian Goodfellow",
+        "category": "AI",
+        "copies": 4
+    }
+]
