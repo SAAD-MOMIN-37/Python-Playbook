@@ -35,8 +35,6 @@ python-playbook/
 │   ├── student-management-system/
 │   └── library-management-system/
 │
-├── images/
-│
 └── README.md
 ```
 
